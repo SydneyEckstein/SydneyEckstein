@@ -1,5 +1,5 @@
 ## Hi there 👋
-//my
+Welcome to my GitHub page! My name is Sydney Eckstein and I am a Computer Science student at Rollins College with a minor in Data Analytics and Economics. 
 <!--
 **SydneyEckstein/SydneyEckstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
