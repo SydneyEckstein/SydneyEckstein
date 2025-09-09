@@ -5,7 +5,7 @@
 
 ### 📫 How to Reach Me
 [LinkedIn](https://www.linkedin.com/in/sydneyeckstein/)
-[Resume](
+[Resume](https://github.com/SydneyEckstein/SydneyEckstein/blob/main/Sydney%20Eckstein%20Resume%2008.2025.pdf)
 <!--
 **SydneyEckstein/SydneyEckstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
