@@ -15,8 +15,13 @@
 **All Things Salesforce**
 - Experienced in cleaning and filtering hundreds of data records in the transition from a firm's legacy Salesforce org to a new Salesforce org
 - Designed and built Salesforce Lightning Web Components
-- Created and launched dashboards using Salesforce CRMA
+- Created and launched dashboards using Salesforce CRMA  
 
+**Real Estate App Development**
+- Developed an application for customer's device which centralizes their listings into one, unified platform.
+- Primary and secondary research was conducted through interviews with the customer, scholarly articles, and collaboration with an Advisor.
+- Coded the backend of the app using Java and saves data locally.
+- Designed and implemented 4 GUIs using Java FX and Visual Studio Code.  
 
 ---
 
@@ -33,7 +38,22 @@ Limited Proficiency: C, R, Snowflake, Salesforce CRMA
 
 ### 📫 How to Reach Me 
 📥 [LinkedIn](https://www.linkedin.com/in/sydneyeckstein/)  
-📘 [Resume](https://github.com/SydneyEckstein/SydneyEckstein/blob/main/Sydney%20Eckstein%20Resume%2008.2025.pdf)
+📘 [Resume](https://github.com/SydneyEckstein/SydneyEckstein/blob/main/Sydney%20Eckstein%20Resume%2008.2025.pdf)  
+
+
+---
+
+
+### 🌱 I'm Currently Learning...
+- Artificial Intelligence and Machine Learning: Currently diving into online courses to create a solid foundation and learn to build my own models in future projects!  
+
+
+---
+
+
+### 🔮 Fun Facts
+- I have so enjoyed taking a course in ballet this semester which has allowed me to rekindle my childhood passion for dance.
+- My favorite game is the NYT Connections where I enjoy solving fresh new rounds of puzzles daily.
 <!--
 **SydneyEckstein/SydneyEckstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
